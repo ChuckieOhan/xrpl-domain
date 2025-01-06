@@ -1,0 +1,24 @@
+[[ISSUERS]]
+address = "rNz8LCuUwpq6vpoB6uP6MGK2nTmeTL7RxH"
+name = "XNUT"
+
+[[TOKENS]]
+issuer = "rNz8LCuUwpq6vpoB6uP6MGK2nTmeTL7RxH"
+currency = "XNUT"
+name = "XNUT"
+desc = "PNUT on Xrpl"
+icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
+
+[[TOKENS.WEBLINKS]]
+url = "https://google.com"
+type = "website"
+title = "Official Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://youtube.com"
+type = "website"
+title = "Token Info Dashboard"
+
+[[TOKENS.WEBLINKS]]
+url = "https://twitter.com"
+type = "socialmedia"
