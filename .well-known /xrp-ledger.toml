@@ -1,9 +1,9 @@
 [[ISSUERS]]
-address = "rNz8LCuUwpq6vpoB6uP6MGK2nTmeTL7RxH"
+address = "rUaPXmyxjzPM3MvRWaxcnstHzfE734o4VN"
 name = "XNUT"
 
 [[TOKENS]]
-issuer = "rNz8LCuUwpq6vpoB6uP6MGK2nTmeTL7RxH"
+issuer = "rUaPXmyxjzPM3MvRWaxcnstHzfE734o4VN"
 currency = "XNUT"
 name = "XNUT"
 desc = "PNUT on Xrpl"
