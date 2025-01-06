@@ -1,11 +1,11 @@
 [[ISSUERS]]
 address = "rNz8LCuUwpq6vpoB6uP6MGK2nTmeTL7RxH"
-name = "XNUT XRP PEANUT"
+name = "XNUT"
 
 [[TOKENS]]
 issuer = "rNz8LCuUwpq6vpoB6uP6MGK2nTmeTL7RxH"
 currency = "XNUT"
-name = "XNUT XRP PEANUT"
+name = "XNUT"
 desc = "PNUT on Xrpl"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
